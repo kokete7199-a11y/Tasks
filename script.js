@@ -15,7 +15,6 @@ function isEven(n) {
 }
 console.log(isEven(10));
 
-
 function isOdd(n) {
   return n % 2 !== 0;
 }
