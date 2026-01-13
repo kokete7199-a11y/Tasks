@@ -169,7 +169,7 @@ function toUpper(str) {
   return str.toUpperCase();
 }
 console.log(toUpper("hello"));
-
+ 
 
 function trimString(str) {
   return str.trim();
