@@ -9,7 +9,7 @@ function multiply(a, b) {
 }
 console.log(multiply(4, 6));
 
-
+ 
 function isEven(n) {
   return n % 2 === 0;
 }
